@@ -1,0 +1,6 @@
+[project]
+name = "runnable_script"
+version = "1.0"
+
+[project.scripts]
+hello = "runnable_script:hello"
